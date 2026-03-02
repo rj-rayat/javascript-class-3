@@ -1,0 +1,33 @@
+// add
+const mango = 5
+const apple = 6
+const total = mango + appl
+console.log(output)
+
+// minus 
+
+const carrot = 677
+const eat = 45
+totalMin
+
+console
+
+
+// multiplication 
+
+const carrot = 677
+const eat = 45
+totalMul
+
+console.log(out)
+
+// multiplication 
+
+const carrot = 677
+const eat = 20
+const totalDiv  = 
+
+console.log(fjfla)
+
+
+
