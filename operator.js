@@ -1,125 +1,34 @@
-const apple = 12
-const komola = 10
-const totalFol = apple + komola
-console.log("koyta fol", totalFol )
+// addition 
 
+// const apple = 5
+// const mango = 5
+// const totalFruite = apple + mango
+// console.log(totalFruite)
 
-// console.log(arBakiThakeKoto)
+// substraction 
 
-const rayhan = 5 
-const chereGeceKoita = 3
-const bakiJon = rayhan - chereGeceKoita
-console.log("Afsos : ", bakiJon)
+// const apple = 15
+// const eat = 10
+// const remainingApple = apple - eat
+// console.log(remainingApple)
 
-// Multiplication 
+// multiplication
 
-const manushAche =  13
-const iPhone = 3
-const totalIphoneNeed = manushAche * iPhone
+// const manush = 5
+// const appleNeed = 15
+// const totalAppleNeed = manush * appleNeed
+// console.log(totalAppleNeed)
 
+//division 
 
-// console.log(totalIphoneNeed) 
+// const apple = 15
+// const manush = 3
+// const dividedApple = apple / manush
+// console.log(dividedApple)
 
-// Division
+// modulus
 
-const iPhoneAche = 40
-const kotojonManush = 10
-const pabeKoita = iPhoneAche / kotojonManush
-console.log(pabeKoita)
-
-
-// Modulus
-
-const amarBostaAche = 33
-const vagKoreDilam = 2
-const vagSes = amarBostaAche % vagKoreDilam
-console.log(vagSes)
-
-
-
-
-// Greater Than >
-// less than <
-// equal to ==
-// greater than >=
-// less than <= 
-// not equal to !=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// const apple = 5
+// const manush =2
+// const vagsesh = apple % manush
+// console.log(vagsesh)
