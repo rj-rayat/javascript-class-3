@@ -10,17 +10,17 @@ console.log(10 != 10) // false
 
 
 
-// const age = 12;
+ const currentAge = 12;
 
-// if (age >= 18){
-//     console.log(" Ticket price : 350")
-// }
-// else if(age >= 12){
-//     console.log("Ticket Price : 100")
-// }
-// else {
-//     console.log("Ticket Free")
-// }
+ if (currentAge >= 18){
+     console.log(" Ticket price : 350")
+ }
+ else if(currentAge >= 12){
+     console.log("Ticket Price : 100")
+ }
+ else {
+     console.log("Ticket Free")
+ }
 
 
 const sellery = 30000;
